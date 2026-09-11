@@ -1,0 +1,6 @@
+{
+  "name": "Campus Find by Compilers",
+  "description": "Campus Find by Compilers — Smart Campus Lost & Found ecosystem. Report, AI match, verify ownership, and securely recover items on campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
